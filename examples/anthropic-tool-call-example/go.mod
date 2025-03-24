@@ -1,8 +1,8 @@
-module github.com/tmc/langchaingo/examples/anthropic-tool-call-example
+module github.com/yhuaminghui/langchaingo/examples/anthropic-tool-call-example
 
 go 1.22.0
 
-require github.com/tmc/langchaingo v0.1.13-pre.1
+require github.com/yhuaminghui/langchaingo v0.1.13-pre.1
 
 require (
 	github.com/dlclark/regexp2 v1.10.0 // indirect
